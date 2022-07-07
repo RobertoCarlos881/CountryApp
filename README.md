@@ -1,6 +1,6 @@
 # PaisesApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+This application was developed with the api https://restcountries.com/ which was an angular student with its routes and apart from rxjs was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
 ## Development server
 
